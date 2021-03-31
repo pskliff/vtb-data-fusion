@@ -1,9 +1,11 @@
 # vtb-data-fusion
 
 This repository provides code solution for [Data Fusion Contest](https://boosters.pro/championship/data_fusion/overview) task 1  
+  
 **Short description:** `Single distilbert`  
-**Place: *7/265***  
+**Place: *7/265 (top 3%)***  
 **Public LB = *0.8683***  
+**Private LB = *0.8674***   
 
 ## Requirements
 
